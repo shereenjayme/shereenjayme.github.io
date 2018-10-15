@@ -13,7 +13,7 @@ body {
 	display: flex;
 	color: #323232;
 	background-color: #fefefe;
-	font-family: 'Segoe UI', monospace;
+	font-family: 'Segoe UI', 'Open Sans';
 	font-size: 1.6em;
 	font-weight: 400;
 	letter-spacing: .0625em;
@@ -510,8 +510,6 @@ a:before,
 a:after {
 	position: absolute;
 	bottom: -2px;
-	content: "pseudo element";
-	opacity: 0;
 	display: inline-block;
 	width: 0;
 	height: 2px;
@@ -535,7 +533,6 @@ a:hover {
 a:hover:before,
 a:hover:after {
 	width: 50%;
-	opacity: 1;
 }
 
 .private {
