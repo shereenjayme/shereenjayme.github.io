@@ -510,6 +510,7 @@ a:before,
 a:after {
 	position: absolute;
 	bottom: -2px;
+	content: "";
 	display: inline-block;
 	width: 0;
 	height: 2px;
