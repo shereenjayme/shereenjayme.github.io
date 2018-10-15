@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-      <loc>https://sjayme.github.io/</loc>
-      <priority>0</priority>
-    </url>
+  <url>
+    <loc>http://www.example.com/about/</loc>
+    <lastmod>2018-10-15T00:23:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/hockeyapp/</loc>
+    <lastmod>2018-10-08T00:13:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/lyftkids/</loc>
+    <lastmod>2018-10-08T00:13:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/iotexchange/</loc>
+    <lastmod>2018-10-07T13:16:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/projects/</loc>
+    <lastmod>2018-10-07T12:28:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2018-10-15T00:23:11-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>
