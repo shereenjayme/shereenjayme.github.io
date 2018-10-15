@@ -510,7 +510,8 @@ a:before,
 a:after {
 	position: absolute;
 	bottom: -2px;
-	content: "";
+	content: "pseudo element";
+	opacity: 0;
 	display: inline-block;
 	width: 0;
 	height: 2px;
@@ -533,7 +534,8 @@ a:hover {
 
 a:hover:before,
 a:hover:after {
-	width: 50%
+	width: 50%;
+	opacity: 1;
 }
 
 .private {
