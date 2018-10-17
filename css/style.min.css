@@ -13,7 +13,7 @@ body {
 	display: flex;
 	color: #323232;
 	background-color: #fefefe;
-	font-family: 'Segoe UI', 'Open Sans';
+	font-family: 'Segoe UI', Helvetica;
 	font-size: 1.6em;
 	font-weight: 400;
 	letter-spacing: .0625em;
@@ -506,6 +506,7 @@ a {
 	transition: .5s
 }
 
+@media (pointer: fine) {
 a:before,
 a:after {
 	position: absolute;
@@ -516,6 +517,7 @@ a:after {
 	height: 2px;
 	background: #f761ac;
 	transition: .5s
+}
 }
 
 a:before {
@@ -531,9 +533,11 @@ a:hover {
 	color: #585858;
 }
 
+@media (pointer: fine) {
 a:hover:before,
 a:hover:after {
 	width: 50%;
+}
 }
 
 .private {
