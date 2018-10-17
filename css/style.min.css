@@ -486,7 +486,7 @@ img {
 	width: 100%;
 	text-align: center;
 	line-height: 2rem;
-	margin-bottom: 1rem
+	margin-bottom: 1rem;
 }
 
 .float-right {
@@ -515,7 +515,7 @@ a:after {
 	display: inline-block;
 	width: 0;
 	height: 2px;
-	background: #f761ac;
+	background: #9f7fe9;
 	transition: .5s
 }
 }
