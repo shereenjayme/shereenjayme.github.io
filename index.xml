@@ -18,7 +18,7 @@
       
       <guid>https://shereenjayme.github.io/about/</guid>
       <description>My name is Shereen * I don&amp;rsquo;t have cute pics of myself yet btw lol *
-I am a product designer that specializes in both website and mobile applications. Recently graduating from UC Irvine with a B.S. in Informatics, I use my HCI specialization in order to create human-centered designs.
+I am a user experience designer that specializes in both website and mobile applications. Recently graduating from UC Irvine with a B.S. in Informatics, I use my HCI specialization in order to create human-centered designs.
 When I&amp;rsquo;m not creating iterative designs, I enjoy keeping up with hockey, eating at new restaurants, and watching the Office.</description>
     </item>
     
@@ -32,12 +32,14 @@ When I&amp;rsquo;m not creating iterative designs, I enjoy keeping up with hocke
     </item>
     
     <item>
-      <title>Coming Soon 1</title>
-      <link>https://shereenjayme.github.io/lyftkids/</link>
+      <title>Skype Redesign</title>
+      <link>https://shereenjayme.github.io/skyperedesign/</link>
       <pubDate>Mon, 08 Oct 2018 00:13:32 -0700</pubDate>
       
-      <guid>https://shereenjayme.github.io/lyftkids/</guid>
-      <description></description>
+      <guid>https://shereenjayme.github.io/skyperedesign/</guid>
+      <description>[add a picture lmao]
+Name: Skype Redesign Role: UX/UI Designer People involved: Fanny Guan, Julia Hoang, Shereen Jayme, Victoria Lai, Kenzo Makitani Tools Used: Photoshop lol
+Overview This case study outlines a school project where I teamed up with four other students to redesign the application Skype. Within the span of ten weeks we identified usability issues with the Skype interface. We recruited users to help us understand what we thought the target audience was.</description>
     </item>
     
     <item>
@@ -46,7 +48,7 @@ When I&amp;rsquo;m not creating iterative designs, I enjoy keeping up with hocke
       <pubDate>Sun, 07 Oct 2018 13:16:39 -0700</pubDate>
       
       <guid>https://shereenjayme.github.io/iotexchange/</guid>
-      <description>Name: IoT Exchange Company: The Channel Company Mentors: Adelaide Reilly, Rauline Ochs, Mark Petter Team members: Team Fluent.ly - Julia Hoang, Victoria Lai, Kyle Mamiit, Chris Pile Stack: React, Node, MySQL, Express, AWS
+      <description>Name: IoT Exchange Company: The Channel Company Role: UX/UI Designer Mentors: Adelaide Reilly, Rauline Ochs, Mark Petter Team members: Team Fluent.ly - Julia Hoang, Victoria Lai, Kyle Mamiit, Chris Pile Stack: React, Node, MySQL, Express, AWS
 Overview For my senior design capstone project I teamed up with four other students to design and develop a working web prototype of a matching system for The Channel Company. This system contributes to the growing IoT solution market by matching Information Technology (IT) and Operational Technology (OT) partners together in order to develop solutions to satisfy end customers.</description>
     </item>
     
@@ -57,7 +59,7 @@ Overview For my senior design capstone project I teamed up with four other stude
       
       <guid>https://shereenjayme.github.io/projects/</guid>
       <description>  IoT Exchange A matching system for IT and OT partners to easily find each other in order to fulfill IoT Solutions.
-    Coming Soon Coming soon lol
+    Skype Redesign A redesign for the well known application, Skype, using UX methods and principles.
     Coming Soon Coming soon lol
    </description>
     </item>
