@@ -558,7 +558,6 @@ a:hover:after {
 	align-items: center;
 	margin-right: 5%;
 	width: 45%;
-	
 }
 
 .portfolio .portfolio-inner .portfolio-content {
@@ -938,16 +937,15 @@ img[src$='#floatright']
 
 
 .portfolio-image {
-    width: 100%;
-    margin: 0;
+	width: 100%;
+	margin: 0;
     overflow: hidden;
 	background: #fff;
 }
 
 .portfolio-image img {
     opacity: 1;
-    width: 100%;
-    height: auto;
+	width: 100%;
 	transition: transform 0.5s, opacity 0.5s;
 }
 
