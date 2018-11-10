@@ -13,7 +13,7 @@ body {
 	display: flex;
 	color: #323232;
 	background-color: #fefefe;
-	font-family: 'Segoe UI', Helvetica;
+	font-family: 'Segoe UI', 'Lato', Helvetica;
 	font-size: 1.6em;
 	font-weight: 400;
 	letter-spacing: .0625em;
