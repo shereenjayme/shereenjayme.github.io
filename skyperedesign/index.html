@@ -206,12 +206,30 @@ We conducted a cognitive walkthrough by defining what tasks Skype users perform 
 For each task, we wanted to understand the user's goal, whether or not the necessary actions were obviously available on the interface, whether or not the user is able to easily recognize the action control, and finally whether or not the user will understand the action was committed. Testing these basic functionalities helped us figure out what typical users may have trouble with because it highlighted some pain points that Skype has. For example, we found that the control to start a video chat with a contact was not immediately recognized as there are no real indicators that they can do it in the first place.
 </p>
 
+<h3 id="major-issues">Major Issues Identified</h3>
+
+<p>Tying together all our research we were able to find out the major issues users typically have when using Skype.</p>
+
+<h4 id="icons">Icons</h4>
+<p>A large portion of issues pointed towards the confusion of similar iconographic elements on the interface. Namely, the "+" symbol was confusing as the interface used it in varying contexts that each exhibited different funtionalities.</p>
+
+<h4 id="interface-structure">Interface Structure</h4>
+<p>Buttons users typically expected to be in one place were found elsewhere where they did not expect it to be. Lots of important functions such as screen sharing was not easily visible when in a call with someone.</p>
+
+<h4 id="ambiguity">Ambiguity</h4>
+<p>Ambiguity in the affordances of controls caused confusion for users. For example, the search bar does not make its scope of functionality clear to the user. Its function is to search through existing contacts only, not the entire Skype directory, which confused many users.</p>
+
+<h4 id="alternate-flows">Alternate Flows</h4>
+<p>There is an excessive amount of alternate flows to important Skype actions. Inconsistencies between multiple controls with the same affordances make it harder to nagivate through. These can overwhelm a user instead of giving users easier access to each function.</p>
+
+<h4 id="no-feedback">No Feedback for Certain Actions</h4>
+<p>Skype does not give any feedback when people change their settings. Participants in our research were confused whether or not their settings saved. Because of the lack of feedback, many participants tried to close and access the page once again to double check whether or not it worked.</p>
 
 <hr />
 
 <h2 id="the-redesign">The Redesign</h2>
 
-<p>Using the findings from our user research, we redesigned the interface of Skype in order to enhance the user experience. We had three targets to prioritize redesigning:</p>
+<p>Using the findings from our user research, we redesigned the interface of Skype in order to enhance the user experience. We did our best to target each major issue uncovered as stated in the previous section. With these in mind, we had three targets to prioritize redesigning:</p>
 
 <ul>
   <li>Making additional call features more obvious</li>
@@ -221,7 +239,7 @@ For each task, we wanted to understand the user's goal, whether or not the neces
 
 <h3 id="sketches">Sketches</h3>
 
-<p>For each target we created quick sketches in order to map out our ideas on paper. Shown below are the sketches for the "centralizing profile privacy settings" target.</p>
+<p>For each target we created quick sketches in order to map out our ideas on paper. For the sake of keeping things brief, the next sections will be focused on the third target, "centralizing profile privacy settings". Shown below are the sketches for this target.</p>
 
 <p><img src="/skyperedesign/sketch1.png#center" alt="sketch1" width="650"/></p>
 <p><img src="/skyperedesign/sketch2.png#center" alt="sketch2" width="650"/></p>
@@ -244,11 +262,30 @@ For each task, we wanted to understand the user's goal, whether or not the neces
 
 <h3 id="heuristic-evaluation">Heuristic Evaluation</h3>
 
+<p>Using each of our redesigns, we conducted a heuristic evaluation in order to evaluate their improvements. Each person in our group evaluated all redesigns, ran through the tasks ourselves, and noted down the strengths and weaknesses of the redesign to use for the next iteration of designs.</p>
+
+<p>Using the "centralize profile privacy settings" target as an example once again, below are our findings.</p>
+
+<p>What worked: </p>
+<ul>
+  <li>Displaying all checkboxes for profile details user options and selections clearly and is a familiar control to work with for users.</li>
+  <li>Checkboxes work well as both a control and feedback indicator in itself.</li>
+  <li>Checkboxes are a clear indicator of when the user has entered editing the privacy settings.</li>
+</ul>
+
+<p>What can be improved:</p>
+<ul>
+  <li>Design needs an easy cancel button for users to quickly exit out of editing settings.</li>
+  <li>A "revert" button could also be included for users to quickly revert all changes made during their session.</li>
+  <li>Checkboxes per profile detail sacrifices some aesthetic for functionality.</li>
+</ul>
+
 <hr />
 
 <h2 id="final-thoughts">Final Thoughts</h2>
 
 <h3 id="lessons-learned">Lessons Learned</h3>
+<p>Doing this project helped me learn how to use UX research in order to redesign a fully fleshed out, successful, software. I learned that no matter how successful a software is, there will always be room to improve and evolve based on what users need. I learned how to work in a group setting and follow a set schedule to keep a project on track.</p>
 
   </article>
 </section>
